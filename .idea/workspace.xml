@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf3a63b-8ee5-4063-91dd-f1538f7437b4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_media_jai_codec_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AdPostItem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AdPostItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AllTestClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories$Pets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories$Vehicles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories$jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/ImageCompareClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/QRCodeHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Screener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/UserFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/surefire-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestScreenCompare.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestScreenCompare.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestScreenCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestScreenCompare.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestScreenCompare.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="255">
+              <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,20 +64,11 @@
       <file leaf-file-name="Screener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+            <state relative-caret-position="170">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="61" column="47" lean-forward="true" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -57,6 +82,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scope</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,6 +161,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="VivaStreet" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestScreenCompare.testOne">
+  <component name="RunManager" selected="JUnit.TestScreenCompare">
     <configuration name="ImageCompareClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.VivaStreet.ImageCompareClass" />
       <module name="untitled" />
@@ -241,8 +284,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestScreenCompare.testOne" />
         <item itemvalue="JUnit.TestScreenCompare" />
+        <item itemvalue="JUnit.TestScreenCompare.testOne" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ImageCompareClass" />
       </list>
@@ -265,9 +308,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestScreenCompare - 2018.07.31 at 15h 10m 27s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 17m 03s.xml">
       <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
@@ -295,6 +335,9 @@
     <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 44m 40s.xml">
       <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestScreenCompare - 2018.08.06 at 10h 50m 35s.xml">
+      <configuration name="TestScreenCompare" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1440" height="801" extended-state="0" />
@@ -302,18 +345,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32474804" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.36533332" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965253" weight="0.3172043" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965253" visible="true" weight="0.31636864" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48143053" visible="true" weight="0.21319444" />
-      <window_info id="Structure" order="1" sideWeight="0.51856947" side_tool="true" visible="true" weight="0.21319444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4808853" visible="true" weight="0.21319444" />
+      <window_info id="Structure" order="1" sideWeight="0.5191147" side_tool="true" visible="true" weight="0.21319444" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -321,7 +365,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3935484" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32474804" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -428,13 +471,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
@@ -739,16 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/Viva_Protect /SeleniumTests/viva-automation/src/com/vivastreet/Utilities/ScreenshotHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -756,20 +782,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        <state relative-caret-position="170">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/untitled.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="61" column="47" lean-forward="true" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+        <state relative-caret-position="255">
+          <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
