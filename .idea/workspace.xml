@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbf3a63b-8ee5-4063-91dd-f1538f7437b4" name="Default" comment="" />
+    <list default="true" id="cbf3a63b-8ee5-4063-91dd-f1538f7437b4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AllTestClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/VivaStreet/AllTestClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestScreenCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestScreenCompare.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestScreenCompare.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestScreenCompare.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state relative-caret-position="255">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -25,14 +32,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllTestClasses.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java">
+      <file leaf-file-name="Screener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="1050">
+              <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenshotHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Viva_Protect /SeleniumTests/viva-automation/src/com/vivastreet/Utilities/ScreenshotHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -46,6 +62,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,25 +85,24 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/QRCodeHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1445" />
-    <option name="y" value="-157" />
-    <option name="width" value="1915" />
-    <option name="height" value="1004" />
+    <option name="y" value="26" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,10 +110,38 @@
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="VivaStreet" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,63 +270,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 16m 42s.xml">
+    <history-entry file="TestScreenCompare - 2018.07.31 at 15h 10m 27s.xml">
       <configuration name="TestScreenCompare" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 23m 34s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 24m 03s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.07.31 at 12h 30m 36s.xml">
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 17m 03s.xml">
       <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.07.31 at 12h 39m 12s.xml">
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 22m 30s.xml">
       <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 39m 48s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 25m 53s.xml">
+      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 40m 20s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 28m 08s.xml">
+      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 51m 04s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 35m 36s.xml">
+      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare - 2018.07.31 at 12h 51m 53s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 36m 06s.xml">
+      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.07.31 at 12h 56m 10s.xml">
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 42m 20s.xml">
+      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 44m 17s.xml">
+      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 44m 40s.xml">
       <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1469" y="-157" width="1787" height="1004" extended-state="0" />
+    <frame x="0" y="26" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32474804" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.36533332" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965253" weight="0.31733334" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965253" weight="0.3172043" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4910072" visible="true" weight="0.109121434" />
-      <window_info id="Structure" order="1" sideWeight="0.5089928" side_tool="true" visible="true" weight="0.109121434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48280606" visible="true" weight="0.21319444" />
+      <window_info id="Structure" order="1" sideWeight="0.517194" side_tool="true" visible="true" weight="0.21319444" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40215054" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3935484" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32474804" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -290,14 +336,14 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36980307" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15052083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36980307" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -327,12 +373,38 @@
           <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="119" />
+      <option name="time" value="128" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>filePath + childFolder, fileName + (&quot;.png&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>allFiles</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>allFiles.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName +&quot;.png&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>compareImages(fileName)==true</expression-string>
         <language-id>JAVA</language-id>
@@ -344,37 +416,17 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string />
+        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName +&quot;.png&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string />
+        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName + &quot;/&quot;+&quot;.png&quot;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string />
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string />
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>System.getProperty(&quot;user.dir&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>filePath+childFolder</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>System.getProperty(&quot;userdir&quot;)</expression-string>
+        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName + &quot;/&quot;+&quot;.png&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -383,31 +435,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="255">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="70" column="35" lean-forward="true" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java">
+    <entry file="file://$USER_HOME$/Desktop/Viva_Protect /SeleniumTests/viva-automation/src/com/vivastreet/Utilities/ScreenshotHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -415,9 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,13 +584,6 @@
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Downloads/image-comparison-1.0.jar!/org/frontendtest/components/ImageComparison.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="40" column="83" lean-forward="true" selection-start-line="40" selection-start-column="83" selection-end-line="40" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/com/sun/imageio/plugins/common/SimpleRenderedImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4649">
@@ -698,23 +734,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumScreenshots/testOne/Tests.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="303">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="210">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Viva_Protect /SeleniumTests/viva-automation/src/com/vivastreet/Utilities/ScreenshotHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
