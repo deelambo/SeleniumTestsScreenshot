@@ -2,40 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf3a63b-8ee5-4063-91dd-f1538f7437b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_media_jai_codec_1_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumScreenshots/testOne/Player.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AdPostItem$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AdPostItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/AllTestClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories$Pets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories$Vehicles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories$jobs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Categories.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/ImageCompareClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/QRCodeHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/Screener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/VivaStreet/UserFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/surefire-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestScreenCompare.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestScreenCompare.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestScreenCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,13 +18,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled$_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml.ic" NAME="$PROJECT_DIR$/TestNG.xml Coverage Results" MODIFIED="1533724660370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestScreenCompare.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestScreenCompare.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
+            <state relative-caret-position="354">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,14 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screener.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Screener.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="666">
+              <caret line="137" column="5" lean-forward="true" selection-start-line="18" selection-end-line="137" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNG.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNG.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -110,16 +90,28 @@
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/QRCodeHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ParallelTestsTwo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ParallelTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestBase.java" />
+        <option value="$PROJECT_DIR$/TestNG.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestScreenCompare.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="26" />
-    <option name="width" value="1440" />
-    <option name="height" value="801" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="3" />
+    <option name="y" value="23" />
+    <option name="width" value="1423" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,6 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,10 +172,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -209,57 +202,144 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestScreenCompare">
-    <configuration name="ImageCompareClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.VivaStreet.ImageCompareClass" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.VivaStreet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.VivaStreet.Main" />
-      <module name="untitled" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
-    <configuration name="TestScreenCompare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG./Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml">
+    <configuration name="TestScreenCompare.testOne (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestScreenCompare" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestScreenCompare.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestScreenCompare" />
       <option name="METHOD_NAME" value="testOne" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
+      <option name="PARAMETERS" value="0" />
       <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <patterns />
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestScreenCompare.testTwo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScreenCompare" />
+      <option name="METHOD_NAME" value="testTwo" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/Users/lanre.ayobamidele/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScreenCompare" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/Users/lanre.ayobamidele/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScreenCompare" />
+      <option name="METHOD_NAME" value="testTwo" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -277,17 +357,20 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.TestScreenCompare.testOne" />
-      <item itemvalue="JUnit.TestScreenCompare" />
-      <item itemvalue="Application.ImageCompareClass" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG./Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" />
+      <item itemvalue="TestNG.TestScreenCompare.testOne (1)" />
+      <item itemvalue="TestNG./Users/lanre.ayobamidele/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml (1)" />
+      <item itemvalue="TestNG.TestScreenCompare.testTwo" />
+      <item itemvalue="TestNG./Users/lanre.ayobamidele/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestScreenCompare" />
-        <item itemvalue="JUnit.TestScreenCompare.testOne" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ImageCompareClass" />
+        <item itemvalue="TestNG./Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" />
+        <item itemvalue="TestNG./Users/lanre.ayobamidele/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml" />
+        <item itemvalue="TestNG.TestScreenCompare.testTwo" />
+        <item itemvalue="TestNG.TestScreenCompare.testOne (1)" />
+        <item itemvalue="TestNG./Users/lanre.ayobamidele/Library/Caches/IdeaIC2018.1/temp-testng-customsuite.xml (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -308,67 +391,68 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 17m 03s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 13h 52m 53s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 22m 30s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 13h 53m 29s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 25m 53s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 13h 59m 44s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 28m 08s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 14h 00m 28s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 35m 36s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 14h 01m 20s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 36m 06s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 14h 59m 00s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 42m 20s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 15h 00m 19s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 44m 17s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 15h 56m 03s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare_testOne - 2018.08.01 at 08h 44m 40s.xml">
-      <configuration name="TestScreenCompare.testOne" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.13 at 15h 57m 28s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestScreenCompare - 2018.08.06 at 10h 50m 35s.xml">
-      <configuration name="TestScreenCompare" configurationId="JUnit" />
+    <history-entry file="_Users_lanre_ayobamidele_IdeaProjects_untitled_TestNG_xml - 2018.08.14 at 12h 02m 31s.xml">
+      <configuration name="/Users/lanre.ayobamidele/IdeaProjects/untitled/TestNG.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1440" height="801" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32474804" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.36533332" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5013889" side_tool="true" weight="0.372" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965253" visible="true" weight="0.31636864" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861112" weight="0.3431604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4808853" visible="true" weight="0.21319444" />
-      <window_info id="Structure" order="1" sideWeight="0.5191147" side_tool="true" visible="true" weight="0.21319444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7895442" visible="true" weight="0.1701389" />
+      <window_info id="Structure" order="1" sideWeight="0.21045576" side_tool="true" weight="0.21319444" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3935484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37548637" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3298611" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33001244" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32462174" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -418,221 +502,73 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="128" />
+      <option name="time" value="133" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>filePath + childFolder, fileName + (&quot;.png&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
       <expression>
         <expression-string>allFiles</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>allFiles.length</expression-string>
+        <expression-string>filePath+childFolder+expectedFile+&quot;.png&quot;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName +&quot;.png&quot;</expression-string>
+        <expression-string>filePath+childFolder+expectedFile+&quot;.png</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>compareImages(fileName)==true</expression-string>
+        <expression-string>System.getProperty(&quot;user.dir&quot;)+filePath+childFolder+expectedFile+&quot;.png&quot;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>compareImages(fileName)==true)</expression-string>
+        <expression-string>filePath + childFolder, expectedFile + &quot;.png&quot;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName +&quot;.png&quot;)</expression-string>
+        <expression-string>expectedImage.toString().isEmpty()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName + &quot;/&quot;+&quot;.png&quot;</expression-string>
+        <expression-string>fileAvailable</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>filePath+childFolder.replace(System.getProperty(&quot;user.dir&quot;) + &quot;/&quot;, &quot;&quot;) + fileName + &quot;/&quot;+&quot;.png&quot;)</expression-string>
+        <expression-string>System.getProperty(&quot;user.dir&quot;)+filePath+childFolder+expectedFile+&quot;.png</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>actualImage</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="70" column="35" lean-forward="true" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Viva_Protect /SeleniumTests/viva-automation/src/com/vivastreet/Utilities/ScreenshotHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Downloads/image-comparison-1.0.jar!/org/frontendtest/components/ImageComparison.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AllTestClasses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2565">
-          <caret line="219" column="74" selection-start-line="219" selection-start-column="74" selection-end-line="219" selection-end-column="74" />
+        <state relative-caret-position="330">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/viva-automation/src/com/vivastreet/Pages/AdPostPage.java">
+    <entry file="file://$PROJECT_DIR$/TestNG.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/VivaStreet/Valid.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/UserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/VivaStreet/Valid.java" />
-    <entry file="file://$USER_HOME$/Documents/viva-automation/src/com/vivastreet/Pages/AdPostPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="101" column="32" lean-forward="true" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Categories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/viva-automation/src/com/vivastreet/Utilities/AdPostItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/jdk.compiler/com/sun/tools/javac/util/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="93" column="18" lean-forward="true" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TheTestTests.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeConstructorAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/UserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4.jar!/ru/yandex/qatools/ashot/Screenshot.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/AdPostItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="99" column="11" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="816" column="26" lean-forward="true" selection-start-line="816" selection-start-column="26" selection-end-line="816" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Downloads/image-comparison-1.0.jar!/org/frontendtest/components/ImageComparison.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/com/sun/imageio/plugins/common/SimpleRenderedImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4649">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Toolkit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <caret line="135" column="22" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/image/BufferedImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="1107" column="47" selection-start-line="1107" selection-start-column="47" selection-end-line="1107" selection-end-column="47" />
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -647,13 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar!/org/apache/maven/shared/utils/io/DirectoryScanner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -782,33 +711,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParallelTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParallelTestsTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="1515">
+          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="349" column="23" selection-start-line="349" selection-start-column="23" selection-end-line="349" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="664" selection-start-line="664" selection-end-line="664" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/thread/ThreadUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar!/org/apache/maven/shared/utils/io/DirectoryScanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="453" selection-start-line="453" selection-end-line="453" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/VivaStreet/Screener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestScreenCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="666">
+          <caret line="137" column="5" lean-forward="true" selection-start-line="18" selection-end-line="137" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -56,38 +56,21 @@ public class Screener {
     public static void takeScreenShot(WebDriver driver, String fileName) throws IOException {
 
         makeParentDirectory();
-        makeChildDirectory();
-
-        scanner.setIncludes(new String[]{fileName, "**/*.png"});
-        scanner.setBasedir(System.getProperty("user.dir"));
-        scanner.setCaseSensitive(false);
-        scanner.scan();
-        String[] allFiles = scanner.getIncludedFiles();
-        File dir = new File(fileName, "**/*.png");
-        File[] dir_contents = dir.listFiles();
-        String temp = fileName + ".png";
+        setChildDirectory(fileName);
         File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+        boolean fileAvailable= Paths.get(filePath+childFolder+fileName+".png").toFile().exists();
 
-        if (allFiles.length == 0) {
+        if (!fileAvailable) {
             FileUtils.copyFile(src, new File(filePath + childFolder, fileName + (".png")));
-        } else {
-
-            for (String file : allFiles) {
-                File f = new File(file);
-                String existingFile = f.getName();
-                String newFile = fileName + ".png";
-
-                if (existingFile.equalsIgnoreCase(newFile)) {
+        }
+        else if (fileAvailable)
+               {
                     FileUtils.copyFile(src, new File(filePath + childFolder, fileName + ("new.png")));
                 }
-            }
-        }
 
         if (!compareImages(fileName) == true) {
 
             System.out.println("The images are not the same check the comparison pic");
-
-
         }
     }
 
@@ -101,12 +84,27 @@ public class Screener {
         scanner.setCaseSensitive(false);
         scanner.scan();
         String[] allFiles = scanner.getIncludedFiles();
-        if (allFiles.length == 1) {
-            String filename = filePath + childFolder + expectedFile + ".png";
+        //File newFile = new File(System.getProperty("user.dir")+filePath+childFolder+expectedFile+".png");
+       boolean fileAvailable= Paths.get(filePath+childFolder+expectedFile+"new.png").toFile().exists();
+
+        if (allFiles.length==1) {
+           // String filename = filePath + childFolder + expectedFile + ".png";
 
             expectedImage = ImageIO.read(new File(filePath + childFolder, expectedFile + (".png")));
             actualImage = ImageIO.read(new File(filePath + childFolder, expectedFile + (".png")));
-        } else if (allFiles.length > 1) {
+        } else if (allFiles.length > 1 && !fileAvailable) {
+            try {
+                expectedImage = ImageIO.read(new File(filePath + childFolder, expectedFile + ".png"));
+                actualImage = ImageIO.read(new File(filePath + childFolder, expectedFile + ".png"));
+            } catch (IIOException e) {
+
+                System.out.println("something went wrong");
+                System.out.println(e.getMessage());
+            }
+
+        }
+            else {
+
             try {
                 expectedImage = ImageIO.read(new File(filePath + childFolder, expectedFile + ".png"));
                 actualImage = ImageIO.read(new File(filePath + childFolder, expectedFile + "new.png"));
@@ -115,7 +113,12 @@ public class Screener {
                 System.out.println("something went wrong");
                 System.out.println(e.getMessage());
             }
-        }
+
+
+            }
+
+
+
         ImageDiffer imageDiffer = new ImageDiffer();
         imageDiff = imageDiffer.makeDiff(expectedImage, actualImage);
 

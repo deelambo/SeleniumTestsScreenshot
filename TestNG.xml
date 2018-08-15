@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite" parallel="tests">
+    <test name="First one" thread-count="1" parallel="tests" >
+        <!--<parameter name="browser" value="chrome"/>-->
+        <classes>
+            <class name="TestScreenCompare"/>
+
+
+        </classes>
+    </test> <!-- First Test -->
+    <!--<test name="testTwo" thread-count="1" parallel="tests" >-->
+        <!--&lt;!&ndash;<parameter name="browser" value="firefox"/>&ndash;&gt;-->
+        <!--<classes>-->
+            <!--<class name="TestScreenCompare"/>-->
+        <!--</classes>-->
+    <!--</test> &lt;!&ndash; Second Test &ndash;&gt;-->
+</suite> <!-- Suite-->
